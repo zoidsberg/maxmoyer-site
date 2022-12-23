@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my website!" />
+        <Header title="Hello world!" />
         <p className="description">
-          Isn't it beautiful?
+          There's nothing here yet, but you can write me at contact@maxmoyer.ca
         </p>
       </main>
 
